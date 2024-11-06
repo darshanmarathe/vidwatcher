@@ -1,0 +1,14 @@
+J:\learning\videoSol\watcher\watcher\watcher\bin\Debug\net8.0\watcher.exe
+J:\learning\videoSol\watcher\watcher\watcher\bin\Debug\net8.0\watcher.deps.json
+J:\learning\videoSol\watcher\watcher\watcher\bin\Debug\net8.0\watcher.runtimeconfig.json
+J:\learning\videoSol\watcher\watcher\watcher\bin\Debug\net8.0\watcher.dll
+J:\learning\videoSol\watcher\watcher\watcher\bin\Debug\net8.0\watcher.pdb
+J:\learning\videoSol\watcher\watcher\watcher\obj\Debug\net8.0\watcher.GeneratedMSBuildEditorConfig.editorconfig
+J:\learning\videoSol\watcher\watcher\watcher\obj\Debug\net8.0\watcher.AssemblyInfoInputs.cache
+J:\learning\videoSol\watcher\watcher\watcher\obj\Debug\net8.0\watcher.AssemblyInfo.cs
+J:\learning\videoSol\watcher\watcher\watcher\obj\Debug\net8.0\watcher.csproj.CoreCompileInputs.cache
+J:\learning\videoSol\watcher\watcher\watcher\obj\Debug\net8.0\watcher.dll
+J:\learning\videoSol\watcher\watcher\watcher\obj\Debug\net8.0\refint\watcher.dll
+J:\learning\videoSol\watcher\watcher\watcher\obj\Debug\net8.0\watcher.pdb
+J:\learning\videoSol\watcher\watcher\watcher\obj\Debug\net8.0\watcher.genruntimeconfig.cache
+J:\learning\videoSol\watcher\watcher\watcher\obj\Debug\net8.0\ref\watcher.dll

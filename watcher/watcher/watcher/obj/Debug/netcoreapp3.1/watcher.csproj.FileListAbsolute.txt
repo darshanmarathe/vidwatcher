@@ -1,0 +1,4 @@
+J:\learning\videoSol\watcher\watcher\watcher\obj\Debug\netcoreapp3.1\watcher.GeneratedMSBuildEditorConfig.editorconfig
+J:\learning\videoSol\watcher\watcher\watcher\obj\Debug\netcoreapp3.1\watcher.AssemblyInfoInputs.cache
+J:\learning\videoSol\watcher\watcher\watcher\obj\Debug\netcoreapp3.1\watcher.AssemblyInfo.cs
+J:\learning\videoSol\watcher\watcher\watcher\obj\Debug\netcoreapp3.1\watcher.csproj.CoreCompileInputs.cache

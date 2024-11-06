@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\learning\\videoSol\\watcher\\watcher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50152B4C-22B1-4AF2-8E28-CBD26D05A5CA}|watcher\\watcher.csproj|j:\\learning\\videosol\\watcher\\watcher\\watcher\\watcher.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{50152B4C-22B1-4AF2-8E28-CBD26D05A5CA}|watcher\\watcher.csproj|solutionrelative:watcher\\watcher.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "watcher",
+              "DocumentMoniker": "J:\\learning\\videoSol\\watcher\\watcher\\watcher\\watcher.csproj",
+              "RelativeDocumentMoniker": "watcher\\watcher.csproj",
+              "ToolTip": "J:\\learning\\videoSol\\watcher\\watcher\\watcher\\watcher.csproj",
+              "RelativeToolTip": "watcher\\watcher.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T16:59:53.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
